@@ -1,0 +1,17 @@
+C:\Users\Kaizen\source\repos\ProyetXmlPrueba\Layer.DATA\bin\Debug\net6.0\Layer.DATA.deps.json
+C:\Users\Kaizen\source\repos\ProyetXmlPrueba\Layer.DATA\bin\Debug\net6.0\Layer.DATA.runtimeconfig.json
+C:\Users\Kaizen\source\repos\ProyetXmlPrueba\Layer.DATA\bin\Debug\net6.0\Layer.DATA.dll
+C:\Users\Kaizen\source\repos\ProyetXmlPrueba\Layer.DATA\bin\Debug\net6.0\Layer.DATA.pdb
+C:\Users\Kaizen\source\repos\ProyetXmlPrueba\Layer.DATA\bin\Debug\net6.0\Domain.dll
+C:\Users\Kaizen\source\repos\ProyetXmlPrueba\Layer.DATA\bin\Debug\net6.0\Domain.pdb
+C:\Users\Kaizen\source\repos\ProyetXmlPrueba\Layer.DATA\obj\Debug\net6.0\Layer.DATA.csproj.AssemblyReference.cache
+C:\Users\Kaizen\source\repos\ProyetXmlPrueba\Layer.DATA\obj\Debug\net6.0\Layer.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaizen\source\repos\ProyetXmlPrueba\Layer.DATA\obj\Debug\net6.0\Layer.DATA.AssemblyInfoInputs.cache
+C:\Users\Kaizen\source\repos\ProyetXmlPrueba\Layer.DATA\obj\Debug\net6.0\Layer.DATA.AssemblyInfo.cs
+C:\Users\Kaizen\source\repos\ProyetXmlPrueba\Layer.DATA\obj\Debug\net6.0\Layer.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Kaizen\source\repos\ProyetXmlPrueba\Layer.DATA\obj\Debug\net6.0\Layer.DATA.csproj.Up2Date
+C:\Users\Kaizen\source\repos\ProyetXmlPrueba\Layer.DATA\obj\Debug\net6.0\Layer.DATA.dll
+C:\Users\Kaizen\source\repos\ProyetXmlPrueba\Layer.DATA\obj\Debug\net6.0\refint\Layer.DATA.dll
+C:\Users\Kaizen\source\repos\ProyetXmlPrueba\Layer.DATA\obj\Debug\net6.0\Layer.DATA.pdb
+C:\Users\Kaizen\source\repos\ProyetXmlPrueba\Layer.DATA\obj\Debug\net6.0\Layer.DATA.genruntimeconfig.cache
+C:\Users\Kaizen\source\repos\ProyetXmlPrueba\Layer.DATA\obj\Debug\net6.0\ref\Layer.DATA.dll

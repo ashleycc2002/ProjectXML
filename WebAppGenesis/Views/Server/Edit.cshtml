@@ -1,0 +1,74 @@
+﻿@model Layer.DATA.Model.ServerInfo
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>ServerInfo</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+
+                <label asp-for="ServerSource" class="control-label"></label>
+                <input asp-for="ServerSource" class="form-control" />
+                <span asp-validation-for="ServerSource" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ServiceSource" class="control-label"></label>
+                <input asp-for="ServiceSource" class="form-control" />
+                <span asp-validation-for="ServiceSource" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Chanel" class="control-label"></label>
+                <input asp-for="Chanel" class="form-control" />
+                <span asp-validation-for="Chanel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Funcion" class="control-label"></label>
+                <input asp-for="Funcion" class="form-control" />
+                <span asp-validation-for="Funcion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Languge" class="control-label"></label>
+                <input asp-for="Languge" class="form-control" />
+                <span asp-validation-for="Languge" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Country" class="control-label"></label>
+                <input asp-for="Country" class="form-control" />
+                <span asp-validation-for="Country" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SesionId" class="control-label"></label>
+                <input asp-for="SesionId" class="form-control" />
+                <span asp-validation-for="SesionId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Serverip" class="control-label"></label>
+                <input asp-for="Serverip" class="form-control" />
+                <span asp-validation-for="Serverip" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

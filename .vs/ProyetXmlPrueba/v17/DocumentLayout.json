@@ -1,0 +1,460 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\webappgenesis\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|solutionrelative:webappgenesis\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\webappgenesis\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|solutionrelative:webappgenesis\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\webappgenesis\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|solutionrelative:webappgenesis\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7D42C8-1A1C-45DC-BB34-6E84D38ED415}|Domain\\Domain.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\domain\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7D42C8-1A1C-45DC-BB34-6E84D38ED415}|Domain\\Domain.csproj|solutionrelative:domain\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\webappgenesis\\views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|solutionrelative:webappgenesis\\views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\webappgenesis\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|solutionrelative:webappgenesis\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\webappgenesis\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|solutionrelative:webappgenesis\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\webappgenesis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|solutionrelative:webappgenesis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\webappgenesis\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|solutionrelative:webappgenesis\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\webappgenesis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|solutionrelative:webappgenesis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\webappgenesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|solutionrelative:webappgenesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16BCB068-E9A6-4EA6-A279-385F8AA752DE}|Layer.DATA\\Layer.DATA.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\layer.data\\taskmanagerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16BCB068-E9A6-4EA6-A279-385F8AA752DE}|Layer.DATA\\Layer.DATA.csproj|solutionrelative:layer.data\\taskmanagerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16BCB068-E9A6-4EA6-A279-385F8AA752DE}|Layer.DATA\\Layer.DATA.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\layer.data\\grepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16BCB068-E9A6-4EA6-A279-385F8AA752DE}|Layer.DATA\\Layer.DATA.csproj|solutionrelative:layer.data\\grepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16BCB068-E9A6-4EA6-A279-385F8AA752DE}|Layer.DATA\\Layer.DATA.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\layer.data\\grepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16BCB068-E9A6-4EA6-A279-385F8AA752DE}|Layer.DATA\\Layer.DATA.csproj|solutionrelative:layer.data\\grepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D2B90E-FFA9-4CA7-A046-2E7269490EE3}|Layer.BLL\\Layer.BLL.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\layer.bll\\customers\\citycommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D2B90E-FFA9-4CA7-A046-2E7269490EE3}|Layer.BLL\\Layer.BLL.csproj|solutionrelative:layer.bll\\customers\\citycommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D2B90E-FFA9-4CA7-A046-2E7269490EE3}|Layer.BLL\\Layer.BLL.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\layer.bll\\customers\\customercommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D2B90E-FFA9-4CA7-A046-2E7269490EE3}|Layer.BLL\\Layer.BLL.csproj|solutionrelative:layer.bll\\customers\\customercommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D2B90E-FFA9-4CA7-A046-2E7269490EE3}|Layer.BLL\\Layer.BLL.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\layer.bll\\customers\\serverinformationcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D2B90E-FFA9-4CA7-A046-2E7269490EE3}|Layer.BLL\\Layer.BLL.csproj|solutionrelative:layer.bll\\customers\\serverinformationcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D2B90E-FFA9-4CA7-A046-2E7269490EE3}|Layer.BLL\\Layer.BLL.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\layer.bll\\customers\\icitycommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D2B90E-FFA9-4CA7-A046-2E7269490EE3}|Layer.BLL\\Layer.BLL.csproj|solutionrelative:layer.bll\\customers\\icitycommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D2B90E-FFA9-4CA7-A046-2E7269490EE3}|Layer.BLL\\Layer.BLL.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\layer.bll\\customers\\icustomerinformationcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D2B90E-FFA9-4CA7-A046-2E7269490EE3}|Layer.BLL\\Layer.BLL.csproj|solutionrelative:layer.bll\\customers\\icustomerinformationcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D2B90E-FFA9-4CA7-A046-2E7269490EE3}|Layer.BLL\\Layer.BLL.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\layer.bll\\customers\\icountrycommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D2B90E-FFA9-4CA7-A046-2E7269490EE3}|Layer.BLL\\Layer.BLL.csproj|solutionrelative:layer.bll\\customers\\icountrycommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7D42C8-1A1C-45DC-BB34-6E84D38ED415}|Domain\\Domain.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\domain\\model\\infocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7D42C8-1A1C-45DC-BB34-6E84D38ED415}|Domain\\Domain.csproj|solutionrelative:domain\\model\\infocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7D42C8-1A1C-45DC-BB34-6E84D38ED415}|Domain\\Domain.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\domain\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7D42C8-1A1C-45DC-BB34-6E84D38ED415}|Domain\\Domain.csproj|solutionrelative:domain\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7D42C8-1A1C-45DC-BB34-6E84D38ED415}|Domain\\Domain.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\domain\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7D42C8-1A1C-45DC-BB34-6E84D38ED415}|Domain\\Domain.csproj|solutionrelative:domain\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\webappgenesis\\controllers\\xmlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|solutionrelative:webappgenesis\\controllers\\xmlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\webappgenesis\\response\\readdocumentxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|solutionrelative:webappgenesis\\response\\readdocumentxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|c:\\users\\kaizen\\source\\repos\\proyetxmlprueba\\webappgenesis\\modelview\\headerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22570EBB-943A-419D-BBAB-9D052F70C975}|WebAppGenesis\\WebAppGenesis.csproj|solutionrelative:webappgenesis\\modelview\\headerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebAppGenesis\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "WebAppGenesis\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T18:14:22.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppGenesis\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "WebAppGenesis\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T18:06:50.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppGenesis\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "WebAppGenesis\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T18:04:48.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Domain\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Domain\\Model\\Category.cs",
+              "RelativeToolTip": "Domain\\Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:58:39.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Views\\City\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppGenesis\\Views\\City\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Views\\City\\Create.cshtml",
+              "RelativeToolTip": "WebAppGenesis\\Views\\City\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T13:56:01.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "WebAppGenesis\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "WebAppGenesis\\Controllers\\CountryController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:55:47.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "WebAppGenesis\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Controllers\\CityController.cs",
+              "RelativeToolTip": "WebAppGenesis\\Controllers\\CityController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:54:47.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebAppGenesis\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebAppGenesis\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T13:53:45.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppGenesis\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Program.cs",
+              "RelativeToolTip": "WebAppGenesis\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:52:11.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAppGenesis\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\appsettings.json",
+              "RelativeToolTip": "WebAppGenesis\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T13:51:21.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskManagerDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Layer.DATA\\TaskManagerDBContext.cs",
+              "RelativeDocumentMoniker": "Layer.DATA\\TaskManagerDBContext.cs",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Layer.DATA\\TaskManagerDBContext.cs",
+              "RelativeToolTip": "Layer.DATA\\TaskManagerDBContext.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:50:37.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Layer.DATA\\GRepository\\Repository.cs",
+              "RelativeDocumentMoniker": "Layer.DATA\\GRepository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Layer.DATA\\GRepository\\Repository.cs",
+              "RelativeToolTip": "Layer.DATA\\GRepository\\Repository.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:47:42.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Layer.DATA\\GRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Layer.DATA\\GRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Layer.DATA\\GRepository\\IRepository.cs",
+              "RelativeToolTip": "Layer.DATA\\GRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:47:19.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebAppGenesis\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebAppGenesis\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T19:08:13.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Layer.BLL\\Customers\\CustomerCommandService.cs",
+              "RelativeDocumentMoniker": "Layer.BLL\\Customers\\CustomerCommandService.cs",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Layer.BLL\\Customers\\CustomerCommandService.cs",
+              "RelativeToolTip": "Layer.BLL\\Customers\\CustomerCommandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:44:56.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CityCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Layer.BLL\\Customers\\CityCommandService.cs",
+              "RelativeDocumentMoniker": "Layer.BLL\\Customers\\CityCommandService.cs",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Layer.BLL\\Customers\\CityCommandService.cs",
+              "RelativeToolTip": "Layer.BLL\\Customers\\CityCommandService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:38:50.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServerInformationCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Layer.BLL\\Customers\\ServerInformationCommandService.cs",
+              "RelativeDocumentMoniker": "Layer.BLL\\Customers\\ServerInformationCommandService.cs",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Layer.BLL\\Customers\\ServerInformationCommandService.cs",
+              "RelativeToolTip": "Layer.BLL\\Customers\\ServerInformationCommandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:38:41.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICustomerInformationCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Layer.BLL\\Customers\\ICustomerInformationCommandService.cs",
+              "RelativeDocumentMoniker": "Layer.BLL\\Customers\\ICustomerInformationCommandService.cs",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Layer.BLL\\Customers\\ICustomerInformationCommandService.cs",
+              "RelativeToolTip": "Layer.BLL\\Customers\\ICustomerInformationCommandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:38:35.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICountryCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Layer.BLL\\Customers\\ICountryCommandService.cs",
+              "RelativeDocumentMoniker": "Layer.BLL\\Customers\\ICountryCommandService.cs",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Layer.BLL\\Customers\\ICountryCommandService.cs",
+              "RelativeToolTip": "Layer.BLL\\Customers\\ICountryCommandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:38:30.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICityCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Layer.BLL\\Customers\\ICityCommandService.cs",
+              "RelativeDocumentMoniker": "Layer.BLL\\Customers\\ICityCommandService.cs",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Layer.BLL\\Customers\\ICityCommandService.cs",
+              "RelativeToolTip": "Layer.BLL\\Customers\\ICityCommandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:38:14.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Domain\\Model\\City.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\City.cs",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Domain\\Model\\City.cs",
+              "RelativeToolTip": "Domain\\Model\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:37:12.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "XMLController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Controllers\\XMLController.cs",
+              "RelativeDocumentMoniker": "WebAppGenesis\\Controllers\\XMLController.cs",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Controllers\\XMLController.cs",
+              "RelativeToolTip": "WebAppGenesis\\Controllers\\XMLController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:41:27.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReadDocumentXML.cs",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Response\\ReadDocumentXML.cs",
+              "RelativeDocumentMoniker": "WebAppGenesis\\Response\\ReadDocumentXML.cs",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\Response\\ReadDocumentXML.cs",
+              "RelativeToolTip": "WebAppGenesis\\Response\\ReadDocumentXML.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAawIoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:24:22.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HeaderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\ModelView\\HeaderViewModel.cs",
+              "RelativeDocumentMoniker": "WebAppGenesis\\ModelView\\HeaderViewModel.cs",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\WebAppGenesis\\ModelView\\HeaderViewModel.cs",
+              "RelativeToolTip": "WebAppGenesis\\ModelView\\HeaderViewModel.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:12:18.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Domain\\Model\\Country.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Country.cs",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Domain\\Model\\Country.cs",
+              "RelativeToolTip": "Domain\\Model\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:19:31.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InfoCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Domain\\Model\\InfoCustomer.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\InfoCustomer.cs",
+              "ToolTip": "C:\\Users\\Kaizen\\source\\repos\\ProyetXmlPrueba\\Domain\\Model\\InfoCustomer.cs",
+              "RelativeToolTip": "Domain\\Model\\InfoCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:23:06.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAKsSAAAAAAAAAAAuwLUSAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-14T22:42:03.178Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

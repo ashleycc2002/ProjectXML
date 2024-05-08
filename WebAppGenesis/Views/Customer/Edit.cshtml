@@ -1,0 +1,88 @@
+﻿@model Layer.DATA.Model.InfoCustomer
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>InfoCustomer</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CustomerName" class="control-label"></label>
+                <input asp-for="CustomerName" class="form-control" />
+                <span asp-validation-for="CustomerName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserId" class="control-label"></label>
+                <input asp-for="UserId" class="form-control" />
+                <span asp-validation-for="UserId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CustomerType" class="control-label"></label>
+                <input asp-for="CustomerType" class="form-control" />
+                <span asp-validation-for="CustomerType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CustomerSegment" class="control-label"></label>
+                <input asp-for="CustomerSegment" class="form-control" />
+                <span asp-validation-for="CustomerSegment" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CustomerBranch" class="control-label"></label>
+                <input asp-for="CustomerBranch" class="form-control" />
+                <span asp-validation-for="CustomerBranch" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ParentCustomerId" class="control-label"></label>
+                <input asp-for="ParentCustomerId" class="form-control" />
+                <span asp-validation-for="ParentCustomerId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ChildDocumentType" class="control-label"></label>
+                <input asp-for="ChildDocumentType" class="form-control" />
+                <span asp-validation-for="ChildDocumentType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ChildDocumentNumber" class="control-label"></label>
+                <input asp-for="ChildDocumentNumber" class="form-control" />
+                <span asp-validation-for="ChildDocumentNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DocumentType" class="control-label"></label>
+                <input asp-for="DocumentType" class="form-control" />
+                <span asp-validation-for="DocumentType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DocumentNumber" class="control-label"></label>
+                <input asp-for="DocumentNumber" class="form-control" />
+                <span asp-validation-for="DocumentNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

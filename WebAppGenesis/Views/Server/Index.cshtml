@@ -1,0 +1,83 @@
+﻿@model IEnumerable<Layer.DATA.Model.ServerInfo>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServerSource)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceSource)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Chanel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Funcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Languge)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Country)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SesionId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Serverip)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+               @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ServerSource)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ServiceSource)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Chanel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Funcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Languge)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Country)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SesionId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Serverip)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.Id }) |
+                @Html.ActionLink("Details", "Details", new {  id=item.Id }) |
+                @Html.ActionLink("Delete", "Delete", new {  id=item.Id  })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
